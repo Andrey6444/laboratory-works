@@ -1,0 +1,37 @@
+body {
+	font-family: "PT Sans", sans-serif;
+}
+h1 {
+	text-align: center;
+}
+p {
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+.wrap	{
+	width: 500px;
+	margin: 0 auto;
+	background-color: 
+}
+.wrap-form {
+	overflow: hidden;
+	margin-bottom: 10px
+}
+.lable-class {
+	display: block;
+	width: 150px;
+	text-align: right;
+	float:left;
+}
+.input-class,p {
+	float: right;
+	width: 250px;
+}
+	
+.textarea-class {
+	width: 494px
+	
+}
+.button {
+	margin-top: 10px
+}
